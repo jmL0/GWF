@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-v.test2.1
-=======
-v.1.8
->>>>>>> d36379d1b7a55a50fb0f52e94d6ed41a472d8940
+brand new one
